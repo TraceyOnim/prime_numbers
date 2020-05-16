@@ -7,5 +7,7 @@
     
 I have used the above facts to determine if a number is a prime or not. 
 - The `_is_prime?/1` returns true if the number is prime otherwise false.
-- The `generate_prime_number` returns the list of all prime numbers within a given range
+- The `generate_prime_number/1` returns the list of all prime numbers within a given range
+
+
 
